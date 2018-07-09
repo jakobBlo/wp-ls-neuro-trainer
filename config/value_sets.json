@@ -1,0 +1,37 @@
+{
+    "learning_rate": {
+        "min": 0.000005,
+        "max": 0.0001,
+        "step": 0.000005
+    },
+    "conv_layer_0_filter": {
+        "min": 3,
+        "max": 66,
+        "step": 3
+    },
+    "conv_layer_0_size": {
+        "min": 2,
+        "max": 12,
+        "step": 1
+    },
+    "conv_layer_1_filter": {
+        "min": 3,
+        "max": 66,
+        "step": 3
+    },
+    "conv_layer_1_size": {
+        "min": 2,
+        "max": 12,
+        "step": 1
+    },
+    "conv_layer_2_filter": {
+        "min": 3,
+        "max": 66,
+        "step": 3
+    },
+    "conv_layer_2_size": {
+        "min": 2,
+        "max": 12,
+        "step": 1
+    }
+}

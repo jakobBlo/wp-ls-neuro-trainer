@@ -1,0 +1,21 @@
+{
+    "conv_layer_1_size": {
+        "min": 2,
+        "max": 5,
+        "step": 1
+    },
+
+    "conv_layer_0_size": {
+        "min": 3,
+        "max": 5,
+        "step": 1
+    },
+
+
+    "conv_layer_1_filter": {
+        "min": 16,
+        "max": 64,
+        "step": 3
+    }
+
+}

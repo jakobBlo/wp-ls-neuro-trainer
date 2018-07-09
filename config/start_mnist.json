@@ -1,0 +1,17 @@
+{
+    "batch_size": 500,
+    "conv_layer_0_filter": 32,
+    "conv_layer_0_size": 4,
+
+    "pool_layer_0_size": 2,
+    "pool_layer_0_stride": 2,
+    "conv_layer_1_filter": 40,
+    "conv_layer_1_size": 4,
+
+    "pool_layer_1_size": 2,
+    "pool_layer_1_stride": 2,
+
+    "learning_rate": 0.05,
+
+    "image_size": 28
+}

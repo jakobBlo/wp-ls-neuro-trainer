@@ -1,0 +1,26 @@
+{
+    "batch_size": 100,
+    "conv_layer_count": 3,
+    "conv_layer_0_filter": 16,
+    "conv_layer_0_size": 3,
+    "conv_layer_1_filter": 16,
+    "conv_layer_1_size": 3,
+    "conv_layer_2_filter": 16,
+    "conv_layer_2_size": 3,
+
+    "fc_layers": [
+        {
+            "outputs": 200,
+            "use_relu": true
+        },
+        {
+            "outputs": 2,
+            "use_relu": false
+        }
+    ],
+    "img_size": 128,
+    "learning_rate": 0.00005,
+    "num_channels": 3,
+    "train_path": "training_data",
+    "validation_size": 0.2
+}
